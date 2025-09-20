@@ -1,2 +1,20 @@
-# assignment.cpp
-This repository contains solutions for CSE202 (Object-Oriented Programming with C++) assignments. It includes programs on basic syntax, functions, arrays, pointers, and key OOP concepts like classes, inheritance, polymorphism, operator overloading, and file handling. Written in C++ with comments, it serves as a learning and reference resource.
+📘 CSE202 – Object Oriented Programming with C++
+This repository contains solutions to class assignments from the CSE202 course. Each program is written in C++ with proper comments for better understanding. The assignments cover topics such as:
+
+Basic syntax & control structures
+
+Functions & recursion
+
+Arrays, strings, and pointers
+
+Object Oriented Programming (classes, objects, constructors, destructors)
+
+Inheritance & polymorphism
+
+Operator overloading & friend functions
+
+File handling in C++
+
+🔹 Subject Code: CSE202
+🔹 Language: C++
+🔹 Usage: For academic reference and practice
